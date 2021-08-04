@@ -6,7 +6,7 @@ Existem várias maneiras de começar a programar com os Jupyter Notebooks dispon
 
 ## Utilização
 
-Para abrir algum dos arquivos no Google Colab, basta clicar neles na listagem de arquivos aqui do Github e então, dentro do arquivo, pressionar no botão
+Para abrir algum dos arquivos no Google Colab, basta clicar neles na listagem de arquivos aqui do Github e então, dentro do arquivo, pressionar o botão
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucasMazei/raciocinio_logico/)
 
